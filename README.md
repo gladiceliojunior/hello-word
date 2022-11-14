@@ -1,2 +1,2 @@
 # hello-word
-exercicio 1
+Alteracao da readme.md para contemplar exercicio 1
